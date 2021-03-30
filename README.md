@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+
+SNAPCHAT-CLONE BY VIVEK PATEL
+Much Excited to Share this Project on REACTJS
+Thankful to #PAPAREACT for guiding out through out this web development Project
+Project :  https://snapchat-clone-vp.web.app/
+FUNCTIONALITIES : 
+1) React.js, Redux, Firebase Authentication
+2) Firebase deployment 
+3) Firebase Storage for Images.
+#webdevelopment #reactjs #firebase #reduxjs
+#papareact #snapchat #reshare #Sonnysanga
+#components #materualui
+
 ## Available Scripts
 
 In the project directory, you can run:
