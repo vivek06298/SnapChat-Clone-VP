@@ -1,0 +1,14 @@
+.chat_view{
+    position: relative;
+}
+.chat_view > img{
+    cursor: pointer;
+    height: 400px;
+    width: 265px;
+}
+.chat_view_timer{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}  

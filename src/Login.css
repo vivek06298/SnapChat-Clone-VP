@@ -1,0 +1,22 @@
+.login{
+    background: url("https://www.pngkey.com/png/full/859-8598072_picture-freeuse-librar-silhouette-mobile-at-getdrawings-cell.png") 
+    no-repeat center ;
+    background-size: contain;
+    height: 400px;
+    width: 265px;
+    padding: 74px;
+}
+.login_container > img{
+    height: 300px;object-fit: contain;
+    widht: 200px;
+    margin-left:20px;
+    margin-right: 20px;
+}
+.login_container{
+    display: flex;
+    flex-direction: column;
+}
+.login_container > Button {
+    margin-left: 20px;
+    margin-right : 20px;
+}
